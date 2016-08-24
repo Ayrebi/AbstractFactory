@@ -1,0 +1,5 @@
+/home/itt/Escritorio/Abstract_Factory/Abstract_Factory/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/itt/Escritorio/Abstract_Factory/Abstract_Factory/bin/Debug/Abstract_Factory.exe.mdb
+/home/itt/Escritorio/Abstract_Factory/Abstract_Factory/bin/Debug/Abstract_Factory.exe
+/home/itt/Escritorio/Abstract_Factory/Abstract_Factory/obj/x86/Debug/Abstract_Factory.exe
+/home/itt/Escritorio/Abstract_Factory/Abstract_Factory/obj/x86/Debug/Abstract_Factory.exe.mdb
